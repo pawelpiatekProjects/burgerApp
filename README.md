@@ -5,6 +5,8 @@
   Burger App
 </h1>
 
+[Deployed app](https://react-burger-application-a2cfd.web.app/)
+
 
 ***"Burger App"*** is a React app with data base on firebase.
 
